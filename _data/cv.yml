@@ -15,46 +15,84 @@
       institution: University of Bern, Bern, Switzerland
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Experimental particle physics
+        - development of optical-electrical conversion stage for the ATLAS ITk Pixel data transmission chain
+        - Standard Model measurement of di-lepton final states with Leptoquark interpretation
+        - Leptoquark phenomenology study for ATLAS ITk
+        - title: thesis title t.b.d.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Advisor Prof. Dr. Michele Weber
+
     - title: Master of Science Physics
       institution: University of Bern, Bern, Switzerland
       year: 2020
       description:
-        - Thesis "Characterisation of the Optical-Electrical Data Conversion System for the ATLAS ITk upgrade"
+        - title: Characterisation of the Optical-Electrical Data Conversion System for the ATLAS ITk upgrade
+          contents:
+            - Advisor Prof. Dr. Michele Weber
 
     - title: Bachelor of Science Physics
       institution: University of Bern, Bern, Switzerland
       year: 2018
       description:
-        - Thesis "Calibration and operation of silicon detectors with the Stave0A test setup"
+        - title: Calibration and operation of silicon detectors with the Stave0A test setup
+          contents:
+            - Advisor Prof. Dr. Michele Weber
         - Minor in mathematics
         - Minor in astronomy
+
+    - title: Supplementary testing to determine eligibility for admission at Swiss universities
+      institution: Gymnasium Kirschgarten, Basel, Switzerland
+      year: 2013
+      description:
+        - (German) Ergänzungsprüfung Passerelle
+
+    - title: Federal Vocational Baccalaureate
+      institution: GIBL, Liestal, Switzerland
+      year: 2011
+      description:
+        - (German) Eidg. Berufsmaturität
+
+    - title: Federal certified electrician
+      institution: GIBM, Muttenz, Switzerland
+      year: 2009
+      description:
+        - apprenticeship lasting 4 years with 4 days work and 1 day of school each week
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching assistant
+      institution: University of Bern, Bern, Switzerland
+      year: 2018 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: courses taught
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Physics practica 1 and 2 for undergrads
+            - Physics for biologists, Physics for medical students
+            - Modelling Techniques in Physics
+            - Introduction to Computational Physics
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Operator
+      institution: Zimmerwald Observatory, University of Bern, Bern, Switzerland
+      year: 2017 - 2020
+      description:
+        - Operating of the ground based laser satellite ranging telescope ZIMLat
+        - Space debris tracking/searching with telescopes ZIMSmart, ZIMMain and ZIMTwin.
+
+    - title: Electrician
+      company: various
+      year: 2011 - 2017
+      description:
+        - leading 1-2 months housing renovation projects over semester break
+
+    - title: Snowboard instructor
+      company: various
+      year: 2011 - 2017
+      description:
+        - giving snowboard lessons from kids to adults
+        - mainly around Gstaad, Switzerland
+        - instructor courses done in Whistler, Canada and Switzerland      
 
 - title: Honors and Awards
   type: time_table
@@ -82,4 +120,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Running, cycling, snowboarding, 
+    - <u>Hobbies:</u> Running, cycling, snowboarding, electronics, computing, design

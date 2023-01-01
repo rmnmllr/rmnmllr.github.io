@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student in Experimental Particle Physics
 
 profile:
-  align: left
+  align: right
   # image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>LHEP AEC</p>
+    <p>University of Bern</p>
+    <p>Sidlerstrasse 5</p>
+    <p>3012 Bern</p>
+    <p>Switzerland</p>
 
 # news: true  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Master’s degree in Physics with a background as an certified electrician. I combine hands-on experience, acquired in the industry, with academic knowledge gained during my studies in particle physics. I started my PhD in experimental particle physics within the Bern ATLAS group in March 2020. I do hardware development for the ATLAS ITk Pixel data transmission chain and data analysis for a precision Standard Model measurement of di-lepton final states. Furthermore I am conducting a Leptoquark phenomenology study for ATLAS ITk.

@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: My GitHub profile and public repositories. My main GitLab account is on the CERN's GitLab server and contains internal data not all available for the public.
 nav: true
 nav_order: 3
 ---
