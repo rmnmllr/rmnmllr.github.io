@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications I was directly involved in. For co-author papers related to ATLAS please check ...
+description: Publications I was directly involved in. For co-author papers related to ATLAS please check an incomplete list on ORCID.
 years: [2023, 2022]
 nav: true
 nav_order: 1

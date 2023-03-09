@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: My GitHub profile and public repositories. My main GitLab account is on the CERN's GitLab server and contains internal data not all available for the public.
+description: My GitHub profile and public repositories. My main GitLab account is on the CERN's GitLab server and contains internal data not available for the public.
 nav: true
 nav_order: 3
 ---
