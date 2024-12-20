@@ -1,42 +1,51 @@
 ---
 layout: page
-title: Optoboard System
-description: with background image
-img: assets/img/12.jpg
+title: Optoboard System of the ATLAS ITk Pixel Detector
+description: 
+img: assets/img/optobox-open-full-vtrx-powerbox.jpg
 importance: 1
 category: work
 related_publications: false
 ---
 
-# Optoboard System of the ATLAS ITk Pixel Detector
+The Optoboard System is the optical-electrical conversion system dedicated to the readout of the ATLAS Inner Tracker (ITk) Pixel detector intended for the High Luminosity LHC (HL-LHC) era.
+This pivotal component of the ITk Pixel detector data transmission chain contains at its heart a PCB, the Optoboard, that hosts a series of ASICs intended to aggregate electrical data links and subsequently convert them to optical signals for transmission to the ATLAS counting rooms via fibre optical cables.
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/optoboard.jpg" title="Optoboard front" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/optoboard_back.jpg" title="Optoboard back" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Photos of the Optoboard's front and back.
+</div>
+The second function operates in the reverse sense where optical signals are converted to electrical links and disseminated to the modules providing clock and command signals.
 
-The **Optoboard System** is a critical component of the ATLAS ITk Pixel Detector, enabling high-speed data transfer and communication under the challenging conditions of the High Luminosity Large Hadron Collider (HL-LHC).
+The Optoboards are hosted in a mechanical structure known as an Optobox, up to eight Optoboards may reside inside an Optobox.
+The number of Optoboards depends on the number of data links coming from a particular sub-detector of the ITk Pixel.
 
-## Purpose
-- Provides optical data transmission for the ITk Pixel Detector.
-- Ensures efficient communication in high-radiation and high-luminosity environments.
+<div class="row justify-content-sm-center">
+    <div class="col-sm-9 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/optobox-open-full-vtrx-powerbox.jpg" title="Optobox" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    An open Optobox with 8 Optoboards inside.
+</div>
 
-## Components
-- **VCSEL Drivers and VCSEL Arrays**: Convert electrical signals to optical signals.
-- **Photodiode Arrays**: Convert optical signals back to electrical signals.
-- **Radiation-Hardened ASICs**: Handle data encoding, decoding, and optical component control.
-- **Passive Optical Components**: Includes fibers and connectors for routing optical signals.
+The Optoboxes are then housed in a mechanical structure known as Optopanel.
+Inside an Optopanel there are 28 Optoboxes and there are four Optopanels at each end of the ATLAS ITk Pixel detector.
 
-## Functions
-- **High-Speed Data Transfer**: Enables fast readout of pixel data to off-detector electronics.
-- **Bidirectional Communication**: Supports uplink (data readout) and downlink (control/configuration).
-- **Radiation Resistance**: Operates reliably in high-radiation environments.
-
-## Design Considerations
-- Compact and lightweight to fit within tight spatial constraints.
-- Highly reliable under prolonged exposure to radiation and thermal cycles.
-- Minimized power consumption to reduce heat generation.
-
-## Integration
-- Closely integrated with the front-end electronics of pixel modules.
-- Ensures seamless communication and data handling for the detector.
-
----
-
-The Optoboard System acts as a critical interface, bridging the pixel detector modules and external data acquisition systems, enabling the precise tracking and data acquisition required for ATLAS ITk to function effectively in the HL-LHC.
-
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/optopanel_side.jpg" title="Optopanel rendering" class="img-fluid rounded" %}
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/optopanel_locations.jpg" title="Optopanel locations" class="img-fluid rounded" %}
+    </div>
+</div>
+<div class="caption">
+    Rendering of the Optopanel and its multiple locations (yellow) on the ATLAS detector.
+</div>
