@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Roman Müller",
-    "label": "Physicist",
+    "name": "Roman Müller, PhD",
+    "job title": "Physicist - Applied Research Fellow (QUEST)",
     "image": "",
     "email": "mail@romanmueller.be",
-    "phone": "+41227661128",
-    "url": "https://rmnmllr.github.io",
+    "work phone": "+41 22 766 11 28",
+    "office": "161/1-008",
     "summary": "Physics Fellow with a background as certified electrician",
     "location": {
       "address": "Weberngasse 8",
@@ -16,9 +16,14 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "rmnmllr",
+        "url": "https://www.linkedin.com/in/rmnmllr/"
+      },
+      {
+        "network": "GitHub",
+        "username": "rmnmllr",
+        "url": "https://github.com/rmnmllr"
       }
     ]
   },
@@ -27,6 +32,7 @@
       "name": "CERN",
       "position": "Physicist - Applied Research Fellow (QUEST)",
       "url": "https://cern.home",
+      "location": "Geneva, Switzerland",
       "startDate": "2024-03-01",
       "endDate": "",
       "summary": "Planning and system integration of the ATLAS phase-II upgrade Inner Tracker (ITk) Pixel detector. R&D on Silicon carbide sensors for future particle detectors.",
@@ -35,6 +41,7 @@
     {
       "name": "Swiss Optical Ground Station and Geodynamics Observatory",
       "position": "Operator",
+      "location": "Zimmerwald, Switzerland",
       "url": "https://www.aiub.unibe.ch/research/zimmerwald_observatory/index_eng.html",
       "startDate": "2017-12",
       "endDate":"2020-05",
@@ -42,16 +49,18 @@
       "highlights": ["Laser satellite ranging telescope", "Space debris tracking"]
     },
     {
-      "name": "various",
+      "name": "various companies",
       "position": "Electrician",
+      "location": "Switzerland",
       "startDate": "2011",
       "endDate": "2017",
       "summary": "Certified electrician with experience in residential and commercial electrical systems. Skilled in installation, maintenance, and repair of electrical systems.",
       "highlights": ["electrical systems", "maintance and repair"]
     },
     {
-      "name": "various",
+      "name": "various companies",
       "position": "Snowboard instructor",
+      "location": "Switzerland",
       "startDate": "2011",
       "endDate": "2017",
       "summary": "Teaching snowboard lessons from kids to adults, mainly in Gstaad, Switzerland. Instructor courses passed in Whistler, Canada and several in Switzerland.",
@@ -74,7 +83,7 @@
     {
       "institution": "University of Bern",
       "location": "Bern, Switzerland",
-      "area": "Physics",
+      "area": "Experimental Physics",
       "studyType": "Master of Science",
       "startDate": "2018-09-17",
       "endDate": "2020-02-29",
@@ -108,7 +117,7 @@
       "courses": []
     },
     {
-      "institution": "GIBL",
+      "institution": "Gewerblich-Industrielle Berufsfachschule",
       "location": "Liestal, Switzerland",
       "area": "technical direction",
       "studyType": "Federal Vocational Baccalaureate",
@@ -117,9 +126,9 @@
       "courses": []
     },
     {
-      "institution": "GIBM",
+      "institution": "Gewerblich-Industrielle Berufsfachschule // Ramseyer Elektro AG",
       "location": "Muttenz, Switzerland",
-      "area": "Apprenticeship lasting 4 years with 4 days work and 1 day of school each week",
+      "area": "Apprenticeship lasting 4 years with each week 4 days work and 1 day of school",
       "studyType": "Federal certified electrician",
       "startDate": "2005-08",
       "endDate": "2009-07",
