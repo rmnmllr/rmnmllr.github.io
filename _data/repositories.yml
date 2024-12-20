@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rmnmllr
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - rmnmllr/pseudo-select
+  - rmnmllr/thesis_template
+  - rmnmllr/uhr 
+  - rmnmllr/xmas_2022
+  - rmnmllr/cabinetry

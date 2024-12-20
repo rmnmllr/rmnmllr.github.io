@@ -1,11 +1,14 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: coding
+description:
 nav: true
 nav_order: 4
 ---
+
+Some of my public repositories on GitHub, my main coding happens on [CERN's GitLab](https://gitlab.cern.ch/muellerr).
+Note: many of the research projects I'm working on are private repositories.
 
 {% if site.data.repositories.github_users %}
 
