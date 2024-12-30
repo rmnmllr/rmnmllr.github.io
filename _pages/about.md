@@ -17,6 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hardware enthusiast that likes to debug all kinds of things in the lab and enjoys writing code for controlling devices and analysing data.
+I am a physicist and a hardware development expert specialised in integration, testing and verificiation
+of electronic systems.
+I combine hands-on experience, acquired during my PhD and in industry as a certified
+electrician, with academic knowledge gained during my studies in physics.
 
 This website will eventually be filled with more content. For now checkout some of my coding repositories or my cv.
