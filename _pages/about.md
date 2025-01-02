@@ -6,7 +6,7 @@ subtitle: PhD, Experienced Project Graduate (<a href='https://careers.smartrecru
 
 profile:
   align: left
-  image: seal.png
+  image: Roman_Portrait_SW.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CERN, office: 161/1-008
