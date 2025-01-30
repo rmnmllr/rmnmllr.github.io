@@ -2,12 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of projects I have worked on.
+description:
 nav: true
 nav_order: 3
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
+
+A collection of projects I have created or worked on, professionally or just for fun.
 
 <!-- pages/projects.md -->
 <div class="projects">
