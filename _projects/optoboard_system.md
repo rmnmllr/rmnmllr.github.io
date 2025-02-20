@@ -2,7 +2,7 @@
 layout: page
 title: Optoboard System
 description: 
-img: assets/img/optobox-open-full-vtrx-powerbox.jpg
+img: assets/img/optobox-open-full-vtrx-powerbox.jpeg
 importance: 1
 category: work
 related_publications: false
@@ -28,7 +28,7 @@ The number of Optoboards depends on the number of data links coming from a parti
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-9 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/optobox-open-full-vtrx-powerbox.jpg" title="Optobox" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/optobox-open-full-vtrx-powerbox.jpeg" title="Optobox" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
