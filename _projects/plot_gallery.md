@@ -2,7 +2,7 @@
 layout: page
 title: Plot gallery
 description: 
-img: 
+img: assets/img/plot_gallery_example1.png
 importance: 2
 category: work
 related_publications: false
@@ -18,7 +18,7 @@ Also a button is implemented to show all images in all sub-directories of the se
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-9 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plot_gallery_example1.png" title="Plot gallery screenshot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/plot_gallery_example2.png" title="Plot gallery screenshot" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
