@@ -11,7 +11,7 @@ related_publications: false
 I made this project because I got annoyed from sharing many data analysis results (plots, diagrams etc.) in person-to-person chats.
 After a while most plots get lost in the chat window and one has to tidously search for them again.
 
-I therefore had the idea of creating a small web-based PHP/Javascript script that scans directories for image formats (PNG, JPG, GIF etc.) and displays them in a gallery.
+I therefore had the idea of creating a small web-based $$\texttt{PHP}$$/$$\texttt{Javascript}$$ script that scans directories for image formats (PNG, JPG, GIF etc.) and displays them in a gallery.
 The gallery is interactive meaning the images can be enlarged for better inspection and one can download the image in the format they prefer.
 There is also a small navigation to browse through the different directories.
 Also a button is implemented to show all images in all sub-directories of the selected directory.
