@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leptoquark Data Analysis
+title: Physics Data Analysis
 description: 
 img: assets/img/fig_U_1_feynman_diagram_drell-yan.png
 importance: 1
@@ -38,3 +38,4 @@ I developed a $$\texttt{Python}$$ framework for fitting the maximum likelihood e
 I carried out my work during 2022-2023 and the fitting framework is still (with some modifications of course) used today.
 
 My contribution had a direct input to the background event generation, so events without leptoquark interference, and application of the kinematic cuts of possible signal events.
+The framework also provided a way to efficiently produce statistical results and provide them to the analysis group for rapid development of the analysis strategy.
