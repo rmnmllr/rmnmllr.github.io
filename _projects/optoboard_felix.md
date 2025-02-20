@@ -14,7 +14,7 @@ The aggregation in the ITk Pixel Detector data transmission chain is performed b
 The main, primary lpGBT chip has I2C controllers on it to further control secondary chips.
 
 At early design stages no software was available to enable users to carry out configuration for hundreds of chip registers and perform testing routines for commissioning of the data transmission chain.
-There only existed a terminal based interface for the optical link which could only be scripted through $$\texttt{Bash}$$.
+There only existed a terminal based interface for the optical link which could only be scripted through $$\texttt{BASH}$$.
 I therfore designed and developed the software (including a GUI) named $$\texttt{optoboard_felix}$$ from the ground up in $$\texttt{Python}$$ with a long term solution in mind.
 
 <div class="row justify-content-sm-center">
