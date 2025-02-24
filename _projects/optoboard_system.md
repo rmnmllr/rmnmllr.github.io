@@ -2,7 +2,7 @@
 layout: page
 title: Optoboard System
 description: 
-img: assets/img/optobox-open-full-vtrx-powerbox.jpeg
+img: assets/img/optobox-open-full-vtrx-powerbox_preview.jpeg
 importance: 1
 category: work
 related_publications: false

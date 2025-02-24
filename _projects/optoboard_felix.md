@@ -2,7 +2,7 @@
 layout: page
 title: Optoboard Software
 description: 
-img: assets/img/fig_gui_v1_1.jpg
+img: assets/img/fig_gui_v1_1_preview.jpg
 importance: 1
 category: work
 related_publications: false

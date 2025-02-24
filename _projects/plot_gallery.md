@@ -2,7 +2,7 @@
 layout: page
 title: Plot gallery
 description: 
-img: assets/img/plot_gallery_example1.png
+img: assets/img/plot_gallery_example1_preview.png
 importance: 2
 category: work
 related_publications: false

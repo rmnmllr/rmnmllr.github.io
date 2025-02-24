@@ -2,7 +2,7 @@
 layout: page
 title: Physics Data Analysis
 description: 
-img: assets/img/fig_U_1_feynman_diagram_drell-yan.png
+img: assets/img/fig_U_1_feynman_diagrams_preview.png
 importance: 1
 category: work
 related_publications: false

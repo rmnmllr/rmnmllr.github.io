@@ -2,7 +2,7 @@
 layout: page
 title: Pseudo Random Pair Matching
 description: 
-img: assets/img/pseudo-select_title.png
+img: assets/img/pseudo-select_title_preview.png
 importance: 1
 category: fun
 related_publications: false

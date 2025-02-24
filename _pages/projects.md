@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 display_categories: [work, fun]
-horizontal: true
+horizontal: false
 ---
 
 A collection of projects I have created or worked on, professionally or just for fun.
