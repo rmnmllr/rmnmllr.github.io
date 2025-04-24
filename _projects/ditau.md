@@ -30,7 +30,7 @@ A theorised third generation leptoquark could negatively interfere with Standard
 In simplified term "*negatively* interfere" means that less $$\tau$$ leptons appeared (e.g. are counted) in the dataset as was expected from the Standard Model prediction.
 
 There is a lot going into simply counting particles that would be beyond the scope of this project description.
-All details of the full analysis are in Ch. 3 of [[1](https://doi.org/10.48549/4717)] and the paper is sheduled for publication in 2025.
+All details of the full analysis are in Ch. 3 of [[1](https://doi.org/10.48549/4717)] and the paper is published as pre-print on arXiv [here](https://arxiv.org/abs/2503.19836).
 
 ## My involvement
 
