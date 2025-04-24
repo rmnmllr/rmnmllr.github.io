@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected publications by categories in reversed chronological order. Authors are listed alphabetically by their last name.
+description: Selected publications I have been primary author or directly contributed to. For all other papers where I am a co-author please check my ORCiD or iNSPIRE HEP profile on the about page.
 nav: true
 nav_order: 2
 ---
