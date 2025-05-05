@@ -7,8 +7,8 @@ nav: true
 nav_order: 4
 ---
 
-Some of my public repositories on GitHub, my main coding happens on [CERN's GitLab](https://gitlab.cern.ch/muellerr).
-Note: many of the research projects I'm working on are private repositories.
+Some of my public repositories on GitHub, my main coding happens on [CERN's GitLab server](https://gitlab.cern.ch/muellerr).
+Note: many of the research projects I am working on are non-public repositories.
 
 {% if site.data.repositories.github_users %}
 

@@ -2,7 +2,7 @@
 layout: page
 title: Detector integration
 description: 
-img: 
+img: assets/img/integration_preview.JPG
 importance: 1
 category: work
 related_publications: false
